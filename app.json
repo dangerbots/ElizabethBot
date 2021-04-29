@@ -54,7 +54,7 @@
     },
     "SUDO_USERS": {
       "description": "List of user id's who will have SUDO rights in your bot(they can't be banned/warned etc. by the bot)",
-      "value": "1584907723",
+      "value": "1047217153",
       "required": false
     },
     "SUPPORT_USERS": {
@@ -70,7 +70,7 @@
    "DEV_USERS": {
      "description": "Developers id",
      "required": false,
-     "value": "1584907723 1587091205"
+     "value": "1047217153"
    },
    "WEBHOOK": {
       "description": "Nothing here.",
