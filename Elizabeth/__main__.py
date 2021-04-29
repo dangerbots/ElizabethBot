@@ -53,7 +53,7 @@ buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
 ]]
 
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
-                                  url="https://t.me/MR_SHRLOCK/49"),
+                                  url="https://github.com/dangerbots/ElizabethBot"),
              InlineKeyboardButton(text="SUPPORT🌳",
                                   url="https://t.me/joinchat/oxSPzt02LkgxOTY9"),
 ]]
